@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/react-flowchart/sw.js', { scope: '/react-flowchart/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/react-toolkit/sw.js', { scope: '/react-toolkit/' })})}
